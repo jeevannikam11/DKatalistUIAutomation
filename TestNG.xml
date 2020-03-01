@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Vagrant Test Suite">
+    <listeners>
+        <listener class-name="com.dkatalis.listners.TestListener"/>
+        <listener class-name="com.dkatalis.listners.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="CodingRound">
+        <classes>
+            <class name="com.dkatalis.tests.SuccessfulPaymentTest" />
+            <class name="com.dkatalis.tests.FailedPaymentTest" />
+        </classes>
+    </test>
+</suite>

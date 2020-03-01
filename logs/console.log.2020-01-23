@@ -1,0 +1,920 @@
+2020-01-23 00:00:06 INFO  PropertiesCache:21 - java.io.BufferedInputStream@670b40af
+2020-01-23 00:00:06 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 00:00:06 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 00:00:06 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 00:00:06 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 00:00:06 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 00:00:06 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 00:00:06 INFO  TestListener:28 - Test Suite started!
+2020-01-23 00:00:06 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 00:00:06 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 00:00:06 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 00:00:14 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 00:00:16 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 00:00:16 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 00:00:16 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 00:00:16 INFO  TestInitilizer:26 - Clicked on Buy now button
+2020-01-23 00:00:16 INFO  TestInitilizer:13 - Test sucessful
+2020-01-23 00:00:16 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 00:00:16 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 00:00:16 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 00:00:16 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 00:00:16 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 00:00:17 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 00:00:17 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 00:57:05 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bcea91b
+2020-01-23 00:57:05 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 00:57:05 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 00:57:05 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 00:57:06 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 00:57:06 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 00:57:06 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 00:57:06 INFO  TestListener:28 - Test Suite started!
+2020-01-23 00:57:06 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 00:57:06 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 00:57:06 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 00:57:09 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 00:57:11 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 00:57:11 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 00:57:11 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 00:57:11 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 00:57:11 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 00:57:11 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 00:57:12 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 00:57:12 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 00:57:12 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 00:57:22 ERROR TestInitilizer:137 - Exception occured in enterAddress method : {}
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[5]//td[2]//input[1]"}
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /tmp/.com.google.Chrome.uOtU65}, goog:chromeOptions: {debuggerAddress: localhost:41839}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6d45d910c4153786b2d0185064d44e0d
+*** Element info: {Using=xpath, value=//tr[5]//td[2]//input[1]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterAddress(HomePage.java:134)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-01-23 00:57:23 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 00:57:23 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 00:57:23 INFO  TestInitilizer:21 - Test sucessful
+2020-01-23 00:57:23 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 00:57:23 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 00:57:23 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 00:57:23 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 00:57:23 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 00:57:23 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 00:57:23 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 00:57:57 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bcea91b
+2020-01-23 00:57:57 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 00:57:57 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 00:57:57 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 00:57:57 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 00:57:57 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 00:57:57 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 00:57:57 INFO  TestListener:28 - Test Suite started!
+2020-01-23 00:57:57 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 00:57:57 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 00:57:57 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 00:58:01 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 00:58:02 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 00:58:02 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 00:58:02 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 00:58:02 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 00:58:03 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 00:58:03 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 00:58:03 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 00:58:04 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 00:58:04 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 00:58:14 ERROR TestInitilizer:137 - Exception occured in enterAddress method : {}
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[5]//td[2]//input[1]"}
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /tmp/.com.google.Chrome.6bA61b}, goog:chromeOptions: {debuggerAddress: localhost:38149}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 59fe8d6753e477ae897677ef103bcd05
+*** Element info: {Using=xpath, value=//tr[5]//td[2]//input[1]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterAddress(HomePage.java:134)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-01-23 00:58:14 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 00:58:14 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 00:58:19 INFO  TestInitilizer:22 - Test sucessful
+2020-01-23 00:58:19 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 00:58:19 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 00:58:19 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 00:58:19 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 00:58:19 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 00:58:20 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 00:58:20 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 01:00:50 INFO  PropertiesCache:21 - java.io.BufferedInputStream@1e7c7811
+2020-01-23 01:00:50 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 01:00:50 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 01:00:50 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 01:00:50 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 01:00:50 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 01:00:50 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 01:00:50 INFO  TestListener:28 - Test Suite started!
+2020-01-23 01:00:50 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 01:00:50 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 01:00:50 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 01:00:54 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 01:00:55 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 01:00:55 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 01:00:55 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 01:00:55 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 01:00:56 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 01:00:56 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 01:00:57 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 01:00:57 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 01:00:57 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 01:00:57 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 01:00:58 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 01:00:58 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 01:01:03 INFO  TestInitilizer:22 - Test sucessful
+2020-01-23 01:01:03 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 01:01:03 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 01:01:03 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 01:01:03 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 01:01:03 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 01:01:03 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 01:01:03 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 23:33:09 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bfbf16f
+2020-01-23 23:33:09 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:33:09 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:33:09 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:33:09 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:33:09 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:33:09 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:33:09 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:33:09 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:33:09 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:33:09 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:33:15 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:33:16 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:33:16 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:33:16 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:33:17 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:33:17 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:33:17 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:33:18 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:33:18 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:33:18 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:33:19 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:33:19 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:33:19 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:33:34 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:33:49 INFO  TestInitilizer:36 - Test sucessful
+2020-01-23 23:33:49 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 23:33:49 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:33:49 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 23:33:49 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 23:33:49 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 23:33:50 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 23:33:50 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 23:34:52 INFO  PropertiesCache:21 - java.io.BufferedInputStream@27f723
+2020-01-23 23:34:52 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:34:52 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:34:52 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:34:52 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:34:52 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:34:52 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:34:52 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:34:52 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:34:52 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:34:52 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:34:56 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:34:58 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:34:58 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:34:58 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:34:58 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:34:58 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:34:58 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:34:59 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:34:59 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:34:59 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:35:00 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:35:00 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:35:00 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:35:15 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:35:30 INFO  TestInitilizer:35 - Done .......Dona...........Done
+2020-01-23 23:35:30 INFO  TestInitilizer:37 - Test sucessful
+2020-01-23 23:35:30 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 23:35:30 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:35:30 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 23:35:30 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 23:35:30 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 23:35:31 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 23:35:31 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 23:39:41 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5f3a4b84
+2020-01-23 23:39:41 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:39:41 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:39:41 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:39:41 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:39:41 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:39:41 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:39:41 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:39:41 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:39:41 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:39:41 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:39:45 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:39:46 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:39:46 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:39:46 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:39:46 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:39:47 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:39:47 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:39:47 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:39:48 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:39:48 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:39:48 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:39:48 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:39:48 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:40:03 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:40:29 INFO  Retry:30 - Going to retry test case: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@3427b02d], 1 out of 2
+2020-01-23 23:40:29 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-23 23:40:29 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:40:29 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:40:29 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:40:29 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:40:39 ERROR TestInitilizer:56 - Exception occured while clicking on Buy now button : {}
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='btn buy']"}
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /tmp/.com.google.Chrome.FXHIGU}, goog:chromeOptions: {debuggerAddress: localhost:40237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fb938e2f1bf398f61b78c3671a3a7613
+*** Element info: {Using=xpath, value=//a[@class='btn buy']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.dkatalis.pages.HomePage.clickOnBuyNowButton(HomePage.java:53)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-01-23 23:40:48 ERROR TestInitilizer:86 - Exception occured in enterPillowAmount method : {}
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:18707
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterPillowAmount(HomePage.java:83)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+Caused by: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:18707
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 35 more
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 55 more
+2020-01-23 23:46:24 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bcea91b
+2020-01-23 23:46:24 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:46:24 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:46:24 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:46:24 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:46:24 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:46:24 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:46:24 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:46:24 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:46:24 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:46:24 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:46:28 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:46:29 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:46:29 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:46:29 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:46:30 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:46:30 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:46:30 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:46:31 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:46:31 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:46:31 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:46:32 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:46:32 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:46:32 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:46:47 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:47:12 INFO  Retry:30 - Going to retry test case: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@28eaa59a], 1 out of 2
+2020-01-23 23:47:12 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-23 23:47:13 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:47:13 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:47:13 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:47:13 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:47:23 ERROR TestInitilizer:56 - Exception occured while clicking on Buy now button : {}
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='btn buy']"}
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /tmp/.com.google.Chrome.rHORj1}, goog:chromeOptions: {debuggerAddress: localhost:46013}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9bfe2cb0fc75630e9beab47b308fd16e
+*** Element info: {Using=xpath, value=//a[@class='btn buy']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.dkatalis.pages.HomePage.clickOnBuyNowButton(HomePage.java:53)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-01-23 23:47:26 ERROR TestInitilizer:86 - Exception occured in enterPillowAmount method : {}
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:32381
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterPillowAmount(HomePage.java:83)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+Caused by: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:32381
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 35 more
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 55 more
+2020-01-23 23:48:00 INFO  PropertiesCache:21 - java.io.BufferedInputStream@46daef40
+2020-01-23 23:48:00 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:48:00 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:48:00 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:48:00 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:48:00 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:48:00 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:48:00 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:48:00 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:48:00 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:48:00 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:48:04 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:48:06 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:48:06 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:48:06 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:48:06 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:48:06 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:48:06 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:48:07 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:48:07 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:48:07 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:48:08 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:48:08 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:48:08 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:48:23 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:48:48 INFO  Retry:30 - Going to retry test case: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@130161f7], 1 out of 2
+2020-01-23 23:48:48 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-23 23:48:49 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:48:49 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:48:49 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:48:49 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:48:59 ERROR TestInitilizer:56 - Exception occured while clicking on Buy now button : {}
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='btn buy']"}
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /tmp/.com.google.Chrome.jLsrEs}, goog:chromeOptions: {debuggerAddress: localhost:35985}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 824acfdaba8481e9cce02a806f172686
+*** Element info: {Using=xpath, value=//a[@class='btn buy']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.dkatalis.pages.HomePage.clickOnBuyNowButton(HomePage.java:53)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-01-23 23:49:08 ERROR TestInitilizer:86 - Exception occured in enterPillowAmount method : {}
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:28044
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterPillowAmount(HomePage.java:83)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+Caused by: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:28044
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 35 more
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 55 more
+2020-01-23 23:49:09 ERROR TestInitilizer:97 - Exception occured in enterName method : {}
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:28044
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-37-generic', java.version: '11.0.4'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.clear(Unknown Source)
+	at com.dkatalis.utils.TestInitilizer.sendKeys(TestInitilizer.java:91)
+	at com.dkatalis.pages.HomePage.enterName(HomePage.java:94)
+	at com.dkatalis.tests.SuccessfulPaymentTest.testBuyNowButtonFunctionality(SuccessfulPaymentTest.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+Caused by: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:28044
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 35 more
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+	... 55 more
+2020-01-23 23:50:01 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bcea91b
+2020-01-23 23:50:02 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:50:02 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:50:02 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:50:02 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:50:02 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:50:02 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:50:02 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:50:02 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:50:02 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:50:02 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:50:06 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:50:07 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:50:07 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:50:07 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:50:07 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:50:08 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:50:08 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:50:09 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:50:09 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:50:09 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:50:09 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:50:09 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:50:10 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:50:25 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:50:50 INFO  TestInitilizer:37 - Done .......Dona...........Done
+2020-01-23 23:50:50 INFO  TestInitilizer:39 - Test sucessful
+2020-01-23 23:50:50 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 23:50:50 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:50:50 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 23:50:50 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 23:50:50 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 23:50:50 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 23:50:50 INFO  TestInitilizer:81 - Suite ended
+2020-01-23 23:54:31 INFO  PropertiesCache:21 - java.io.BufferedInputStream@1a3869f4
+2020-01-23 23:54:31 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-23 23:54:31 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-23 23:54:31 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-23 23:54:31 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-23 23:54:31 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-23 23:54:31 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-23 23:54:31 INFO  TestListener:28 - Test Suite started!
+2020-01-23 23:54:31 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-23 23:54:31 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-23 23:54:31 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-23 23:54:36 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-23 23:54:37 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-01-23 23:54:37 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-01-23 23:54:37 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-01-23 23:54:37 INFO  TestInitilizer:54 - Clicked on Buy now button
+2020-01-23 23:54:38 INFO  TestInitilizer:84 - Entered city : 200
+2020-01-23 23:54:38 INFO  TestInitilizer:95 - Entered customer Name : Jeevan
+2020-01-23 23:54:38 INFO  TestInitilizer:105 - Entered customer Name : jeevannikam1991@gmail.com
+2020-01-23 23:54:39 INFO  TestInitilizer:115 - Entered customer Phone no : 8149034452
+2020-01-23 23:54:39 INFO  TestInitilizer:125 - Entered customer City : Pune
+2020-01-23 23:54:39 INFO  TestInitilizer:135 - Entered customer Address : Pashan
+2020-01-23 23:54:39 INFO  TestInitilizer:145 - Entered customer Postal code : 411008
+2020-01-23 23:54:39 INFO  TestInitilizer:64 - Clicked on checkout button
+2020-01-23 23:54:55 INFO  TestInitilizer:29 - Done .......
+2020-01-23 23:55:16 INFO  TestInitilizer:41 - Done .......Dona...........Done
+2020-01-23 23:55:16 INFO  TestInitilizer:43 - Test sucessful
+2020-01-23 23:55:16 INFO  TestListener:83 - Test casetestBuyNowButtonFunctionality passed!
+2020-01-23 23:55:16 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-01-23 23:55:16 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-01-23 23:55:16 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-23 23:55:16 INFO  TestListener:57 - Test Suite is ending!
+2020-01-23 23:55:17 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-01-23 23:55:17 INFO  TestInitilizer:81 - Suite ended

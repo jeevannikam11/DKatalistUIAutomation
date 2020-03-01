@@ -1,0 +1,168 @@
+2020-02-11 00:00:12 INFO  TestListener:110 - testBuyNowButtonFunctionality failed!
+2020-02-11 00:00:12 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-02-11 00:00:12 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-02-11 00:00:12 INFO  TestListener:40 - failedTestCases
+2020-02-11 00:00:12 INFO  TestListener:44 - Failed test case: [TestResult name=testBuyNowButtonFunctionality status=FAILURE method=SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@647e447] output={null}] Failed test method: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@647e447]
+2020-02-11 00:00:12 INFO  TestListener:57 - Test Suite is ending!
+2020-02-11 00:00:13 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-02-11 00:00:13 INFO  TestInitilizer:81 - Suite ended
+2020-02-11 00:12:52 INFO  PropertiesCache:21 - java.io.BufferedInputStream@25af5db5
+2020-02-11 00:12:52 INFO  PropertiesCache:22 - Read all properties from file
+2020-02-11 00:12:52 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-02-11 00:12:52 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-02-11 00:12:52 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-02-11 00:12:52 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-02-11 00:12:52 INFO  TestInitilizer:40 - Executing on ST ......
+2020-02-11 00:12:52 INFO  TestListener:28 - Test Suite started!
+2020-02-11 00:12:52 INFO  TestInitilizer:126 -  =================================================== 
+2020-02-11 00:12:52 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-02-11 00:12:52 INFO  TestInitilizer:128 -  =================================================== 
+2020-02-11 00:13:06 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-02-11 00:13:07 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-02-11 00:13:07 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-02-11 00:13:07 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-02-11 00:13:08 INFO  TestInitilizer:84 - Clicked on Buy now button
+2020-02-11 00:13:08 INFO  TestInitilizer:114 - Entered city : 200
+2020-02-11 00:13:08 INFO  TestInitilizer:125 - Entered customer Name : Jeevan
+2020-02-11 00:13:09 INFO  TestInitilizer:135 - Entered customer Name : jeevannikam1991@gmail.com
+2020-02-11 00:13:09 INFO  TestInitilizer:145 - Entered customer Phone no : 8149034452
+2020-02-11 00:13:09 INFO  TestInitilizer:155 - Entered customer City : Pune
+2020-02-11 00:13:09 INFO  TestInitilizer:165 - Entered customer Address : Pashan
+2020-02-11 00:13:10 INFO  TestInitilizer:175 - Entered customer Postal code : 411008
+2020-02-11 00:13:10 INFO  TestInitilizer:94 - Clicked on checkout button
+2020-02-11 00:13:22 INFO  TestInitilizer:337 - Switched to frame : snap-midtrans
+2020-02-11 00:13:22 INFO  TestInitilizer:225 - Clicked on cancel button
+2020-02-11 00:13:22 INFO  TestInitilizer:245 - Clicked on Credit card link
+2020-02-11 00:13:23 INFO  TestInitilizer:185 - Entered Card Number : 4811111111111114
+2020-02-11 00:13:23 INFO  TestInitilizer:195 - Entered Card Number : 02/20
+2020-02-11 00:13:23 INFO  TestInitilizer:205 - Entered Card Number : 123
+2020-02-11 00:13:23 INFO  TestInitilizer:235 - Clicked on Pay now button
+2020-02-11 00:13:34 INFO  TestInitilizer:215 - Entered Card Number : 112233
+2020-02-11 00:13:34 INFO  TestInitilizer:255 - Clicked on OK button
+2020-02-11 00:13:48 INFO  TestListener:110 - testBuyNowButtonFunctionality failed!
+2020-02-11 00:13:48 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-02-11 00:13:48 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-02-11 00:13:48 INFO  TestListener:40 - failedTestCases
+2020-02-11 00:13:48 INFO  TestListener:44 - Failed test case: [TestResult name=testBuyNowButtonFunctionality status=FAILURE method=SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@28eaa59a] output={null}] Failed test method: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@28eaa59a]
+2020-02-11 00:13:48 INFO  TestListener:57 - Test Suite is ending!
+2020-02-11 00:13:49 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-02-11 00:13:49 INFO  TestInitilizer:81 - Suite ended
+2020-02-11 00:21:18 INFO  PropertiesCache:21 - java.io.BufferedInputStream@27f723
+2020-02-11 00:21:18 INFO  PropertiesCache:22 - Read all properties from file
+2020-02-11 00:21:18 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-02-11 00:21:18 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-02-11 00:21:19 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-02-11 00:21:19 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-02-11 00:21:19 INFO  TestInitilizer:40 - Executing on ST ......
+2020-02-11 00:21:19 INFO  TestListener:28 - Test Suite started!
+2020-02-11 00:21:19 INFO  TestInitilizer:126 -  =================================================== 
+2020-02-11 00:21:19 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-02-11 00:21:19 INFO  TestInitilizer:128 -  =================================================== 
+2020-02-11 00:21:28 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-02-11 00:21:30 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-02-11 00:21:30 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-02-11 00:21:30 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-02-11 00:21:30 INFO  TestInitilizer:84 - Clicked on Buy now button
+2020-02-11 00:21:30 INFO  TestInitilizer:114 - Entered city : 200
+2020-02-11 00:21:31 INFO  TestInitilizer:125 - Entered customer Name : Jeevan
+2020-02-11 00:21:31 INFO  TestInitilizer:135 - Entered customer Name : jeevannikam1991@gmail.com
+2020-02-11 00:21:31 INFO  TestInitilizer:145 - Entered customer Phone no : 8149034452
+2020-02-11 00:21:31 INFO  TestInitilizer:155 - Entered customer City : Pune
+2020-02-11 00:21:32 INFO  TestInitilizer:165 - Entered customer Address : Pashan
+2020-02-11 00:21:32 INFO  TestInitilizer:175 - Entered customer Postal code : 411008
+2020-02-11 00:21:32 INFO  TestInitilizer:94 - Clicked on checkout button
+2020-02-11 00:21:44 INFO  TestInitilizer:337 - Switched to frame : snap-midtrans
+2020-02-11 00:21:44 INFO  TestInitilizer:225 - Clicked on cancel button
+2020-02-11 00:21:45 INFO  TestInitilizer:245 - Clicked on Credit card link
+2020-02-11 00:21:45 INFO  TestInitilizer:185 - Entered Card Number : 4811111111111114
+2020-02-11 00:21:45 INFO  TestInitilizer:195 - Entered Card Number : 02/20
+2020-02-11 00:21:45 INFO  TestInitilizer:205 - Entered Card Number : 123
+2020-02-11 00:21:46 INFO  TestInitilizer:235 - Clicked on Pay now button
+2020-02-11 00:21:56 INFO  TestInitilizer:215 - Entered Card Number : 112233
+2020-02-11 00:21:56 INFO  TestInitilizer:255 - Clicked on OK button
+2020-02-11 00:22:00 INFO  TestListener:110 - testBuyNowButtonFunctionality failed!
+2020-02-11 00:22:00 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-02-11 00:22:00 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-02-11 00:22:00 INFO  TestListener:40 - failedTestCases
+2020-02-11 00:22:00 INFO  TestListener:44 - Failed test case: [TestResult name=testBuyNowButtonFunctionality status=FAILURE method=SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@3c407114] output={null}] Failed test method: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@3c407114]
+2020-02-11 00:22:00 INFO  TestListener:57 - Test Suite is ending!
+2020-02-11 00:22:01 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-02-11 00:22:01 INFO  TestInitilizer:81 - Suite ended
+2020-02-11 00:22:41 INFO  PropertiesCache:21 - java.io.BufferedInputStream@1a3869f4
+2020-02-11 00:22:41 INFO  PropertiesCache:22 - Read all properties from file
+2020-02-11 00:22:41 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-02-11 00:22:41 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-02-11 00:22:42 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-02-11 00:22:42 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-02-11 00:22:42 INFO  TestInitilizer:40 - Executing on ST ......
+2020-02-11 00:22:42 INFO  TestListener:28 - Test Suite started!
+2020-02-11 00:22:42 INFO  TestInitilizer:126 -  =================================================== 
+2020-02-11 00:22:42 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-02-11 00:22:42 INFO  TestInitilizer:128 -  =================================================== 
+2020-02-11 00:22:47 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-02-11 00:22:48 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-02-11 00:22:48 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-02-11 00:22:48 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-02-11 00:22:48 INFO  TestInitilizer:84 - Clicked on Buy now button
+2020-02-11 00:22:48 INFO  TestInitilizer:114 - Entered city : 200
+2020-02-11 00:22:49 INFO  TestInitilizer:125 - Entered customer Name : Jeevan
+2020-02-11 00:22:49 INFO  TestInitilizer:135 - Entered customer Name : jeevannikam1991@gmail.com
+2020-02-11 00:22:50 INFO  TestInitilizer:145 - Entered customer Phone no : 8149034452
+2020-02-11 00:22:50 INFO  TestInitilizer:155 - Entered customer City : Pune
+2020-02-11 00:22:50 INFO  TestInitilizer:165 - Entered customer Address : Pashan
+2020-02-11 00:22:50 INFO  TestInitilizer:175 - Entered customer Postal code : 411008
+2020-02-11 00:22:50 INFO  TestInitilizer:94 - Clicked on checkout button
+2020-02-11 00:23:02 INFO  TestInitilizer:337 - Switched to frame : snap-midtrans
+2020-02-11 00:23:03 INFO  TestInitilizer:225 - Clicked on cancel button
+2020-02-11 00:23:03 INFO  TestInitilizer:245 - Clicked on Credit card link
+2020-02-11 00:23:03 INFO  TestInitilizer:185 - Entered Card Number : 4811111111111114
+2020-02-11 00:23:04 INFO  TestInitilizer:195 - Entered Card Number : 02/20
+2020-02-11 00:23:04 INFO  TestInitilizer:205 - Entered Card Number : 123
+2020-02-11 00:23:04 INFO  TestInitilizer:235 - Clicked on Pay now button
+2020-02-11 00:23:14 INFO  TestInitilizer:215 - Entered Card Number : 112233
+2020-02-11 00:23:14 INFO  TestInitilizer:255 - Clicked on OK button
+2020-02-11 00:23:19 INFO  TestListener:110 - testBuyNowButtonFunctionality failed!
+2020-02-11 00:23:19 INFO  TestInitilizer:74 - Testcase execution completed :::::: testBuyNowButtonFunctionality
+2020-02-11 00:23:19 INFO  TestInitilizer:59 - Tests Ended from class :::::SuccessfulPaymentTest
+2020-02-11 00:23:19 INFO  TestListener:40 - failedTestCases
+2020-02-11 00:23:19 INFO  TestListener:44 - Failed test case: [TestResult name=testBuyNowButtonFunctionality status=FAILURE method=SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@2f7298b] output={null}] Failed test method: SuccessfulPaymentTest.testBuyNowButtonFunctionality()[pri:0, instance:com.dkatalis.tests.SuccessfulPaymentTest@2f7298b]
+2020-02-11 00:23:19 INFO  TestListener:57 - Test Suite is ending!
+2020-02-11 00:23:19 INFO  TestInitilizer:80 - Logger Info:: Inside suiteEndReached Method
+2020-02-11 00:23:19 INFO  TestInitilizer:81 - Suite ended
+2020-02-11 00:41:59 INFO  PropertiesCache:21 - java.io.BufferedInputStream@25af5db5
+2020-02-11 00:41:59 INFO  PropertiesCache:22 - Read all properties from file
+2020-02-11 00:41:59 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-02-11 00:41:59 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-02-11 00:42:00 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-02-11 00:42:00 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-02-11 00:42:00 INFO  TestInitilizer:40 - Executing on ST ......
+2020-02-11 00:42:00 INFO  TestListener:28 - Test Suite started!
+2020-02-11 00:42:00 INFO  TestInitilizer:126 -  =================================================== 
+2020-02-11 00:42:00 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-02-11 00:42:00 INFO  TestInitilizer:128 -  =================================================== 
+2020-02-11 00:42:15 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-02-11 00:42:16 INFO  TestInitilizer:66 - Testcase name is :::::: testBuyNowButtonFunctionality
+2020-02-11 00:42:16 INFO  TestInitilizer:67 - testBuyNowButtonFunctionality Started ::::
+2020-02-11 00:42:16 INFO  TestListener:71 - testBuyNowButtonFunctionality started!
+2020-02-11 00:42:16 INFO  TestInitilizer:84 - Clicked on Buy now button
+2020-02-11 00:42:17 INFO  TestInitilizer:114 - Entered city : 200
+2020-02-11 00:42:17 INFO  TestInitilizer:125 - Entered customer Name : Jeevan
+2020-02-11 00:42:18 INFO  TestInitilizer:135 - Entered customer Name : jeevannikam1991@gmail.com
+2020-02-11 00:42:18 INFO  TestInitilizer:145 - Entered customer Phone no : 8149034452
+2020-02-11 00:42:18 INFO  TestInitilizer:155 - Entered customer City : Pune
+2020-02-11 00:42:18 INFO  TestInitilizer:165 - Entered customer Address : Pashan
+2020-02-11 00:42:18 INFO  TestInitilizer:175 - Entered customer Postal code : 411008
+2020-02-11 00:42:19 INFO  TestInitilizer:94 - Clicked on checkout button
+2020-02-11 00:42:31 INFO  TestInitilizer:337 - Switched to frame : snap-midtrans
+2020-02-11 00:42:31 INFO  TestInitilizer:225 - Clicked on cancel button
+2020-02-11 00:42:31 INFO  TestInitilizer:245 - Clicked on Credit card link
+2020-02-11 00:42:32 INFO  TestInitilizer:185 - Entered Card Number : 4811111111111114
+2020-02-11 00:42:32 INFO  TestInitilizer:195 - Entered Card Number : 02/20
+2020-02-11 00:42:32 INFO  TestInitilizer:205 - Entered Card Number : 123
+2020-02-11 00:42:32 INFO  TestInitilizer:235 - Clicked on Pay now button
+2020-02-11 00:42:42 INFO  TestInitilizer:215 - Entered Card Number : 112233
+2020-02-11 00:42:43 INFO  TestInitilizer:255 - Clicked on OK button

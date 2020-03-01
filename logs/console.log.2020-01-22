@@ -1,0 +1,65 @@
+2020-01-22 00:58:26 INFO  PropertiesCache:21 - java.io.BufferedInputStream@42d8062c
+2020-01-22 00:58:26 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-22 00:58:26 INFO  ExtentManager:93 - Directory: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport is created!
+2020-01-22 00:58:26 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-22 00:58:26 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-22 00:58:26 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-22 00:58:26 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-22 00:58:26 INFO  TestListener:28 - Test Suite started!
+2020-01-22 00:58:26 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-22 00:58:26 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-22 00:58:26 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-22 00:58:34 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-22 00:58:34 INFO  TestListener:124 - java.lang.NullPointerException
+2020-01-22 00:58:34 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-22 00:58:34 INFO  TestListener:57 - Test Suite is ending!
+2020-01-22 01:00:25 INFO  PropertiesCache:21 - java.io.BufferedInputStream@27f723
+2020-01-22 01:00:25 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-22 01:00:25 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-22 01:00:25 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-22 01:00:26 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-22 01:00:26 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-22 01:00:26 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-22 01:00:26 INFO  TestListener:28 - Test Suite started!
+2020-01-22 01:00:26 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-22 01:00:26 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-22 01:00:26 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-22 01:00:28 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-22 01:00:28 INFO  TestListener:124 - java.lang.NullPointerException
+2020-01-22 01:00:28 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-22 01:00:28 INFO  TestListener:57 - Test Suite is ending!
+2020-01-22 01:01:12 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5ed828d
+2020-01-22 01:01:12 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-22 01:01:12 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-22 01:01:12 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-22 01:01:12 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-22 01:01:12 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-22 01:01:12 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-22 01:01:12 INFO  TestListener:28 - Test Suite started!
+2020-01-22 01:01:12 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-22 01:01:12 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-22 01:01:12 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-22 01:01:14 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-22 01:01:14 INFO  TestListener:124 - java.lang.NullPointerException
+2020-01-22 01:01:14 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-22 01:01:14 INFO  TestListener:57 - Test Suite is ending!
+2020-01-22 01:02:30 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5bfbf16f
+2020-01-22 01:02:30 INFO  PropertiesCache:22 - Read all properties from file
+2020-01-22 01:02:30 INFO  ExtentManager:98 - Directory already exists: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+2020-01-22 01:02:30 INFO  ExtentManager:79 - ExtentReport Path for LINUX: /home/jeevan/eclipse-workspace/DkatalisAutomation/TestReport
+
+2020-01-22 01:02:31 INFO  TestInitilizer:38 - here is the URL :: https://demo.midtrans.com/
+2020-01-22 01:02:31 INFO  TestInitilizer:39 - --------------------------------------------------
+2020-01-22 01:02:31 INFO  TestInitilizer:40 - Executing on ST ......
+2020-01-22 01:02:31 INFO  TestListener:28 - Test Suite started!
+2020-01-22 01:02:31 INFO  TestInitilizer:126 -  =================================================== 
+2020-01-22 01:02:31 INFO  TestInitilizer:127 - Url is :: https://demo.midtrans.com/
+2020-01-22 01:02:31 INFO  TestInitilizer:128 -  =================================================== 
+2020-01-22 01:02:42 INFO  TestInitilizer:53 - class Name SuccessfulPaymentTest
+2020-01-22 01:02:42 INFO  TestListener:120 - testBuyNowButtonFunctionality skipped!
+2020-01-22 01:02:42 INFO  TestListener:124 - java.lang.NullPointerException
+2020-01-22 01:02:42 INFO  TestListener:55 - Congrats, All test cases are passed
+2020-01-22 01:02:42 INFO  TestListener:57 - Test Suite is ending!
