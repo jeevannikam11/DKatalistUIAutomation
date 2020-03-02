@@ -39,7 +39,7 @@ public class SuccessfulPaymentTest extends TestInitilizer {
 
         String str = "";
 
-        str = driver.findElement(By.xpath("//*[@id=’app’]/following-sibling::i[@class='main-container']/child::div[last()-1]")).getText();
+        str = homePage.getMessage();
 
         Assert.assertEquals(str, "Transaction successful");
 

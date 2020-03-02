@@ -36,8 +36,7 @@ public class FailedPaymentTest extends TestInitilizer {
         homePage.clickOnOkButton();
         Thread.sleep(2000);
         String str = "";
-        str = driver.findElement(By.xpath("//*[@id=’app’]/following-sibling::i[@class='main-container']/child::div[last()-1]")).getText();
-
+        str = homePage.getMessage();
         Assert.assertNotEquals(str, "Transaction successful");
         log.info("Test sucessful");
     }

@@ -37,6 +37,8 @@ public class ObjectRepository {
 
             public static final String okButton_Xpath = "//*[@name='ok']";
 
+            public static final String message_Xpath = "//*[@id=’app’]/following-sibling::i[@class='main-container']/child::div[last()-1]";
+
         }
     }
 }

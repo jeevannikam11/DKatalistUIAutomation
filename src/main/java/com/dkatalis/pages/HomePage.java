@@ -77,6 +77,20 @@ public class HomePage extends TestInitilizer {
     @FindBy(how = How.XPATH, using = HomeScreen.SampleStoreScreen.okButton_Xpath)
     public WebElement okButton;
 
+    @FindBy(how = How.XPATH, using = HomeScreen.SampleStoreScreen.message_Xpath)
+    public WebElement message;
+
+    public String getMessage() {
+        String passMessage = "";
+        try {
+            passMessage = message.getText();
+            log.info("Message is :: " + passMessage);
+        } catch (Exception e) {
+            log.error("Exception occured in getMessage : {}", e);
+        }
+        return passMessage;
+    }
+
     public void clickOnBuyNowButton() {
 
         try {
