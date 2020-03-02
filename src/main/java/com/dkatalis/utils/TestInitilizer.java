@@ -3,6 +3,10 @@ package com.dkatalis.utils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
@@ -41,9 +45,15 @@ public class TestInitilizer extends ObjectRepository{
 	}
 
 	@BeforeTest
-	public void Setup() throws InterruptedException, IOException {
+	@Parameters({"browser"})
+	public void Setup(String browser) throws InterruptedException, IOException {
 
-		launchWebdriver();
+		//launchWebdriver();
+		if (browser.equalsIgnoreCase("chrome")) {
+			launchWebdriver();
+		} else if (browser.equalsIgnoreCase("firefox")) {
+			launchWebdriverFirefox(url);
+		}
 		launchApplication();
 	}
 
@@ -110,9 +120,7 @@ public class TestInitilizer extends ObjectRepository{
 		try {
 
 			if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-
 				System.setProperty("webdriver.chrome.driver", cache.getProperty("driverPath") + "chromedriver.exe");
-
 			}
 
 			else if (System.getProperty("os.name").toUpperCase().contains("MAC")) {
@@ -202,6 +210,28 @@ public class TestInitilizer extends ObjectRepository{
 
 		System.out.println("Waiting for the page to load");
 		wait = new WebDriverWait(driver, 120L);
+	}
+
+	private void launchWebdriverFirefox(String url) {
+		try {
+			if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
+				System.setProperty("webdriver.gecko.driver", cache.getProperty("driverPath") + "geckodriver.exe");
+			} else if (System.getProperty("os.name").toUpperCase().contains("MAC")) {
+				System.setProperty("webdriver.gecko.driver", cache.getProperty("driverPath") + "geckodriver_MAC");
+			} else if(System.getProperty("os.name").toUpperCase().contains("LINUX")){
+				System.setProperty("webdriver.gecko.driver", cache.getProperty("driverPath") + "geckodriver");
+			}
+
+			driver = new FirefoxDriver();
+			driver.get(url);
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		} catch (Exception e) {
+			log.info("Exception message ::" + e);
+			driver.close();
+		}
+
 	}
 
 
